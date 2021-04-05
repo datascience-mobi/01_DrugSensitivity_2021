@@ -19,9 +19,10 @@ Supervisor:
 
 Drug repurposing, i.e. the application of a compound to a different disease type, is an attractive strategy, compared with the development of a new drug. Hence, screening efforts are underway to re-analyse the efficacy of already approved drugs in a different setting. Treatments for rare diseases are an obvious application of this strategy, with more than 7000 rare diseases, of which 95\% lack an approved treatment. Re-purposing existing drugs is financially more attractive than developing new molecules. A further domain of application are cancer treatments. 
 
-```{r, include=TRUE, out.width = '60%', fig.align="center", fig.cap=c("Fig. 1 - Strategies for drug repurposing (from Pushpakom et al., Nat Reviews Drug Discovery)"), echo=FALSE}
-knitr::include_graphics("repurposing.png")
-```
+<div class="figure" style="text-align: center">
+<img src="repurposing.png" alt="Fig. 1 - Strategies for drug repurposing (from Pushpakom et al., Nat Reviews Drug Discovery)" width="60%" />
+<p class="caption">Fig. 1 - Strategies for drug repurposing (from Pushpakom et al., Nat Reviews Drug Discovery)</p>
+</div>
 
 
 For this project, we will consider a large screening effort performed at the Broad Institute, in which several thousand drugs have been screened using a large collection of cancer cell lines ([CCLE](https://portals.broadinstitute.org/ccle/about)). The effect of these drugs at several concentrations have been measured, both for oncological treatments, as well as for molecules approved for non-cancer treatments, comparing the effect on cell growth compared to a control DMSO screen. This screen is using a screening strategy called [PRISM](https://www.theprismlab.org/) (check the original publication presenting PRISM below).
@@ -75,7 +76,8 @@ We have provided the data as two `.rda` R-objects:
 
 You can load each one of these objects with:
 
-```{r eval=FALSE}
+
+```r
 load("path/to/your/directory/prism_datasets.rda")
 load("path/to/your/directory/cellline_datasets.rda")
 ```
