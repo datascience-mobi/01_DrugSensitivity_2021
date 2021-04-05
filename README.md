@@ -2,7 +2,7 @@
 
 Supervisor: 
 
-* Carl Herrmann (carl.herrmann@uni-heidelberg.de)
+* Carl Herrmann (carl.herrmann@bioquant.uni-heidelberg.de)
 
 ## Introduction
 
