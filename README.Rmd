@@ -112,6 +112,10 @@ Paper presenting the Achilles CRISPR/Cas9 screen
 
 + Dempster, J. M., Rossen, J., Kazachkova, M., Pan, J., Root, D. E., & Tsherniak, A. (n.d.). [Extracting Biological Insights from the Project Achilles Genome-Scale CRISPR Screens in Cancer Cell Lines.](https://doi.org/10.1101/720243)
 
+Paper presenting the relationship between drug and genetic sensitivity
+
++ Gonçalves, E., Segura‐Cabrera, A., Pacini, C., Picco, G., Behan, F. M., Jaaks, P., … Garnett, M. J. (2020). Drug mechanism‐of‐action discovery through the integration of pharmacological and CRISPR screens. [Molecular Systems Biology, 16(7), 1–14.](https://doi.org/10.15252/msb.20199405)
+
 ## How to structure your project
 
 ### Project proposal
