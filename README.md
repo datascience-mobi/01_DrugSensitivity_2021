@@ -1,15 +1,4 @@
----
-title: "Topic 1 : Drug viability screens for oncological and non-oncological treatments"
-author: "Project overview and guidelines"
-output:
-  html_document: 
-    keep_md: yes
-    toc: yes
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEncoding{UTF-8}
-  %\VignetteEngine{knitr::rmarkdown}
----
+# Topic 1 : Drug viability screens for oncological and non-oncological treatments
 
 Supervisor: 
 
