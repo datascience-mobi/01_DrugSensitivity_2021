@@ -1,8 +1,10 @@
 # Topic 1 : Drug viability screens for oncological and non-oncological treatments
 
-Supervisor: 
+Supervisors: 
 
 * Carl Herrmann (carl.herrmann@uni-heidelberg.de)
+* Ana L. Costa (luisa.costa@bioquant.uni-heidelberg.de)
+
 
 ## Introduction
 
@@ -16,7 +18,7 @@ Drug repurposing, i.e. the application of a compound to a different disease type
 
 For this project, we will consider a large screening effort performed at the Broad Institute, in which several thousand drugs have been screened using a large collection of cancer cell lines ([CCLE](https://portals.broadinstitute.org/ccle/about)). The effect of these drugs at several concentrations have been measured, both for oncological treatments, as well as for molecules approved for non-cancer treatments, comparing the effect on cell growth compared to a control DMSO screen. This screen is using a screening strategy called [PRISM](https://www.theprismlab.org/) (check the original publication presenting PRISM below).
 
-This large screening efforts has been complemented by several other screens on the CCLE cell lines, namely a CRISPR knock-out screen (Achilles screen), as well as whole-genome sequencing to determine the genetic alterations (both single-nucleotide variants SNVs and copy-number alterations CNVs). Together, these datasets provide a unique ressource to understand, and possibly predict the effect of drug treatments on cancer cell lines.
+This large screening efforts has been complemented by several other screens on the CCLE cell lines, namely a CRISPR knock-out screen (Achilles screen), as well as whole-genome sequencing to determine the genetic alterations (both single-nucleotide variants SNVs and copy-number alterations CNVs). Together, these datasets provide a unique resource to understand, and possibly predict the effect of drug treatments on cancer cell lines.
 
 ## Objective
 
@@ -35,11 +37,11 @@ In this project, we are interested in understanding the drug response of cancer 
 
 The projects will consist of a generic analysis of the whole dataset, focusing on the questions above. In addition, each group will also investigate the screen results for a subset of cell lines related to a specific tumor type:
 
-1. lung cancer (102 celllines)
-2. skin cancer (40 celllines)
-3. brain cancer (34 celllines)
-4. pancreatic cancer (33 celllines)
-5. ovarian cancer (30 celllines)
+1. bone cancer (13 celllines)
+2. gastric cancer (17 celllines)
+3. kidney cancer (17 celllines)
+4. liver cancer (17 celllines)
+5. breast cancer (22 celllines)
 
 
 ## Description of datasets
